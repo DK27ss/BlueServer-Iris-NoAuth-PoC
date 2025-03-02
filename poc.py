@@ -23,7 +23,6 @@ def create_directory(path):
         os.makedirs(path)
 
 def get_ip_info(ip):
-    """ Récupère les informations de l'IP depuis ipinfo.io """
     try:
         response = requests.get(f"https://ipinfo.io/{ip}/json", timeout=5)
         if response.status_code == 200:
