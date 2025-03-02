@@ -16,15 +16,13 @@ A simple PoC with 0Auth system on BlueIris Server interface.
       -i, --info            Scan info only
       -l LIST, --list LIST  Scan from a file containing URLs (one per line)
 
-// python poc.py -u TARGET -i
+// `python poc.py -u TARGET -i`
 
 ![iris_infos](https://github.com/user-attachments/assets/9dee7318-7446-4337-bb46-bae0a7c0c028)
 
-// python poc.py -u TARGET -a
+// `python poc.py -u TARGET -a`
 
 ![iris_all](https://github.com/user-attachments/assets/6a14b9a5-81b6-489c-8d6a-b88206a16ed3)
-
-// python poc.py -u TARGET -l
 
 ## Shodan:
 
