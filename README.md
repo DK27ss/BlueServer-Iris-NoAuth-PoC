@@ -24,6 +24,10 @@ A simple PoC with 0Auth system on BlueIris Server interface.
 
 ![iris_all](https://github.com/user-attachments/assets/6a14b9a5-81b6-489c-8d6a-b88206a16ed3)
 
+## Requirements:
+
+    pip install playwright
+
 ## Shodan:
 
     product:"Blue Server"
